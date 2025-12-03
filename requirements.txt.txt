@@ -1,8 +1,0 @@
-flask
-pymongo
-werkzeug
-gridfs
-PyPDF2
-python-docx
-google-genai
-gunicorn
